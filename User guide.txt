@@ -1,0 +1,17 @@
+The system can perform the following functions:
+
+•	It can create a new folder
+•	It can create a new file inside a folder of the user’s choice
+•	It shows the distribution of folders and files inside.
+•	It can delete a particular folder along with all files in it.
+•	It can delete a single file from a folder.
+•	It can move files from one directory to another while retaining the file’s content
+•	It can search for a directory in the system.
+•	It can search for a file in the system.
+•	It can open a file for reading and writing.
+•	It can truncate a file to desired words.
+•	It calculates file size and updates at the run-time.
+•	It shows the total memory of the OS available.
+
+To Perform the desire function, enter the corresponding number to it. For instance, to "Create Folder,"
+Press 1 on the menu. Similarly, press "E" to go back to the menu and "11" to Exit the System.
